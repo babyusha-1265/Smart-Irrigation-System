@@ -1,6 +1,6 @@
 # Smart-Irrigation-System
 
-This project demonstrates an automatic plant watering system using Arduino, simulated in Tinkercad with block coding. The system monitors soil moisture levels and activates a water pump when the soil is dry, ensuring plants receive adequate water without manual intervention.
+This project demonstrates an automatic plant watering system using Arduino. The system monitors soil moisture levels and activates a water pump when the soil is dry, ensuring plants receive adequate water without manual intervention.
 
 **Components Used**
 
@@ -14,9 +14,6 @@ Water Pump: Waters the plant when activated.
 
 Connecting Wires: For building the circuit.
 
-
-**Simulation**
-The project is simulated using Tinkercad, an online platform for 3D design and electronics simulation. The block coding feature in Tinkercad is utilized to program the Arduino.
 
 **How It Works**
 The soil moisture sensor measures the soil's moisture level.
